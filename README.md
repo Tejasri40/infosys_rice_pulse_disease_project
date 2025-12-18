@@ -5,14 +5,16 @@ Two separate models were trained for Rice and Pulse (Bean) crops using Convoluti
 
 **Datasets Used**
 1) Pulse Dataset
+   
 bean_rust, healthy, leaf_spot
 
-Number of classes: 3
+ Number of classes: 3
 
-3) Rice Dataset
+2) Rice Dataset
+   
 blast, blight, tungro
 
-Number of classes: 3
+ Number of classes: 3
 
 **Training Process**
 Dataset loaded using ImageFolder
@@ -46,5 +48,6 @@ Successfully trained Rice and Pulse disease detection models
 Verified prediction accuracy on validation data
 Saved best-performing models for deployment
 Prepared models for integration with Streamlit application
+
 
 
