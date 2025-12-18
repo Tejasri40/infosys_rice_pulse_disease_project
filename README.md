@@ -25,8 +25,11 @@ Best performing model saved
 
 **Sample training output:**
 Epoch 1/20
+
 Train Loss: 10.46 | Train Acc: 71.05%
+
 Val Loss: 10.16 | Val Acc: 52.08%
+
 ✓ Best model saved!
 
 
@@ -37,10 +40,15 @@ Model performance confirmed before deployment
 
 **Sample Output**
 Loading trained model...
+
 Model loaded successfully
+
 Classes: ['blast', 'blight', 'tungro']
+
 Testing multiple images...
+
 Image: blast_001.jpg
+
 Prediction: blast (99.75%)
 
 **Outcome**
@@ -48,6 +56,7 @@ Successfully trained Rice and Pulse disease detection models
 Verified prediction accuracy on validation data
 Saved best-performing models for deployment
 Prepared models for integration with Streamlit application
+
 
 
 
