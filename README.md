@@ -56,12 +56,13 @@ Image: blast_001.jpg
 
 Prediction: blast (99.75%)
 
-**Outcome
+**Outcome**
 
 Successfully trained Rice and Pulse disease detection models
 Verified prediction accuracy on validation data
 Saved best-performing models for deployment
 Prepared models for integration with Streamlit application
+
 
 
 
